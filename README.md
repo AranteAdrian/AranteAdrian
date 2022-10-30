@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/premium-photo/data-science-abstract-technological-background-vibrant-colors-with-blured-waves-futuristic-hitech-banner_115838-2068.jpg?w=2000)](https://rishavchanda.io)
+[![MasterHead](https://www.topcoder.com/wp-content/media/2018/04/DataScience.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Adrian Dominique Arante</h1>
 <h3 align="center">A passionate data analyst and data scientist aspirant</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
