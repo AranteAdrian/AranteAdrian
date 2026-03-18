@@ -1,6 +1,6 @@
 [![MasterHead](https://www.topcoder.com/wp-content/media/2018/04/DataScience.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Adrian Dominique Arante</h1>
-<h3 align="center">A passionate AI Engineer</h3>
+<h3 align="center">AI Engineer / AI Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrianarante&label=Profile%20views&color=0e75b6&style=flat" alt="adrianarante" /> </p>
 
